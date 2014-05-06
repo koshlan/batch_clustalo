@@ -1,4 +1,4 @@
 batch_clustalo
 ==============
 
-Multiple Sequences Alignments in Batch
+Multiple Sequence Alignments in Batch
