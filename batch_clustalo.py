@@ -100,6 +100,40 @@ def custom_currate_blastp_output(fn_blast_best_hit):
     fh.close()
     return Dc # THIS DICTIONARY
 
+def clean_list(list, prefixes):
+        ''' THIS IS A ONE OFF FUNCTION TO ADD "NA" WHERE MISSING HITS ARE'''
+        original_list = [x.split("_")[0] for x in list]
+        
+        final_list = ["NA"]*len(prefixes)
+        for x,y in zip(original_list,list):
+            try:
+                ind = prefixes.index(x)
+                final_list[ind] = y
+            except ValueError:
+                pass
+        return final_list
+
+def output_hit_list_as_matrix(output_array, fn_lookup, prefixes):
+    import os
+    ''' THIS IS A ONE OF FUNCTION TO OUTPUT A MATRIX RESULT'''
+    fh = open(fn_lookup, 'r')
+    D = {}
+    for line in fh:
+        x,y = line.strip().split("\t")
+        D[x.replace(">","")] = y 
+    fh.close()
+    L = []
+    for a,b in sorted(output_array):
+        cl = clean_list(b,prefixes)
+        sys.stdout.write( a  +"\t"+ D[a] +"\t"+ str(len(b))+"\t"+ "\t".join(map(str,cl)) + "\n")
+    fh.close()
+    '''Usage
+    Inputs: tuple array
+    Usage: 
+    '''
+
+
+
 class kdict():# NOT USED CURRENTLY
     '''kdict is a new class meant to deal with nested dictionaries'''
     def __init__(self, D):
@@ -127,11 +161,14 @@ class kdict():# NOT USED CURRENTLY
     
 
 
+
+
+
 import sys
 import os 
 import subprocess
 blast_result_best_hits = "Example_Inputs/NC_002936_195.gbk_converted.faa.blastresult.best_hit" 
-number_of_genomes_found_in = 13
+number_of_genomes_found_in = 0 #13
 D = custom_currate_blastp_output(blast_result_best_hits) # Makes a Dictionary
 filtered_dictionary = {k: v for k, v in D.iteritems() if int(v['count']) > number_of_genomes_found_in } # Refines The Dictionary
 
@@ -156,9 +193,15 @@ from datetime import datetime
 unique_timestamp = datetime.now().strftime('%Y-%m-%d_%H_%M_%S')
 os.system("mkdir %s"%(unique_timestamp))
 
+
+# ONLY UNQUOTE THIS BLOCK IF YOU WANT A MATRIX OF ALL THE HITS (TO MAKE THIS WORK YOU WILL NEED TO INCLUDE THE PROPER PREFIXES SO THE COLUMNS OF THE MATRIX LINE UP)
+fn_lookup = '195.gbk.name_lookup'
+prefixes = ["AHS","DET","DehaBAV1","DehalGT","Dehly","DhcVS","DscP1","DscP2","GY50","RBG1351","RBG2","btf","cbdb","dcmb"]
+output_hit_list_as_matrix(output_array, fn_lookup, prefixes)
+
+
 fasta_file = "Example_Inputs/PanGenome_DhcRelatedChloroflexi.fna"
 seq_dict = return_seq_dict_from_fasta(fasta_file)
 for ref_seq_name , hits_list in output_array:
     subfasta_from_dict(hits_list, seq_dict, "temp.fasta")
     subprocess.call('../util/clustalo -i %s -o %s/%s.fna -v' %("temp.fasta", unique_timestamp, ref_seq_name) , shell=True)
-    break

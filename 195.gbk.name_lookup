@@ -1,0 +1,1580 @@
+>DET0001	chromosomal replication initiator protein DnaA
+>DET0002	GTPase ObgE
+>DET0003	nicotinate (nicotinamide) nucleotide adenylyltransferase
+>DET0004	DNA gyrase, B subunit
+>DET0005	GTP pyrophosphokinase
+>DET0006	histidyl-tRNA synthetase
+>DET0007	hypothetical protein
+>DET0008	membrane protein
+>DET0009	branched-chain amino acid aminotransferase
+>DET0010	hypothetical protein
+>DET0011	DNA polymerase IV
+>DET0012	hypothetical protein
+>DET0013	orotidine 5'-phosphate decarboxylase
+>DET0014	hypothetical protein
+>DET0015	lipoprotein
+>DET0016	folylpolyglutamate synthetase
+>DET0017	hypothetical protein
+>DET0018	hypothetical protein
+>DET0019	D-tyrosyl-tRNA(Tyr) deacylase
+>DET0020	FUR family transcriptional regulator
+>DET0021	hypothetical protein
+>DET0022	hypothetical protein
+>DET0023	hypothetical protein
+>DET0024	DNA internalization-related competence protein ComEC/Rec2
+>DET0025	competence protein ComEA
+>DET0026	potassium uptake protein
+>DET0027	potassium uptake protein
+>DET0028	universal stress protein
+>DET0029	Trk system potassium uptake protein
+>DET0030	potassium transporter peripheral membrane component
+>DET0031	hypothetical protein
+>DET0032	cation efflux family protein
+>DET0033	hypothetical protein
+>DET0034	phosphate transporter
+>DET0035	guanylate kinase
+>DET0036	hypothetical protein
+>DET0037	ferredoxin-NADP(+) reductase subunit alpha
+>DET0038	oxidoreductase
+>DET0039	hypothetical protein
+>DET0040	hypothetical protein
+>DET0041	quinone methlytransferase
+>DET0042	hypothetical protein
+>DET0043	hypothetical protein
+>DET0044	hypothetical protein
+>DET0045	redox family protein
+>DET0046	GTP-dependent nucleic acid-binding protein EngD
+>DET0047	DNA polymerase III delta subunit-related protein
+>DET0048	hypothetical protein
+>DET0049	ROK family protein
+>DET0050	alanyl-tRNA synthetase
+>DET0051	hypothetical protein
+>DET0052	queuine tRNA-ribosyltransferase
+>DET0053	alcohol dehydrogenase, iron-containing
+>DET0056	hypothetical protein
+>DET0057	ATP-dependent Clp protease, ATP-binding subunit ClpC
+>DET0058	DNA repair protein RadA
+>DET0059	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+>DET0060	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+>DET0061	cysteinyl-tRNA synthetase
+>DET0063	resolvase domain-containing protein
+>DET0064	hypothetical protein
+>DET0065	virulence-related protein
+>DET0066	DNA methylase
+>DET0067	S-adenosylmethionine synthetase
+>DET0068	hypothetical protein
+>DET0069	HNH endonuclease domain-containing protein
+>DET0070	hypothetical protein
+>DET0071	SNF2 family helicase
+>DET0072	phage/plasmid DNA primase
+>DET0073	hypothetical protein
+>DET0074	family A DNA-dependent DNA polymerase
+>DET0075	hypothetical protein
+>DET0076	resolvase domain-containing protein
+>DET0077	hypothetical protein
+>DET0078	trichloroethene reductive dehalogenase anchoring protein
+>DET0079	trichloroethene reductive dehalogenase
+>DET0080	hypothetical protein
+>DET0081	hypothetical protein
+>DET0083	ISDet1, transposase orfA
+>DET0084	hypothetical protein
+>DET0085	hypothetical protein
+>DET0086	hipB protein
+>DET0087	hypothetical protein
+>DET0088	reductive dehalogenase domain-containing protein
+>DET0089	radical SAM domain-containing protein
+>DET0090	radical SAM domain-containing protein
+>DET0091	hypothetical protein
+>DET0092	LuxR family DNA-binding response regulator
+>DET0093	hypothetical protein
+>DET0094	hypothetical protein
+>DET0095	ferrous iron transport protein B
+>DET0096	feoA family protein
+>DET0097	iron dependent repressor
+>DET0098	hypothetical protein
+>DET0099	mobA family protein
+>DET0100	hypothetical protein
+>DET0101	molybdopterin oxidoreductase
+>DET0102	molybdopterin oxidoreductase, membrane subunit
+>DET0103	molybdopterin oxidoreductase, iron-sulfur binding subunit
+>DET0104	hypothetical protein
+>DET0105	degV family protein
+>DET0106	hypothetical protein
+>DET0107	hypothetical protein
+>DET0108	endonuclease/exonuclease/phosphatase
+>DET0109	hydrogenase maturation protease
+>DET0110	[Ni/Fe] hydrogenase, group 1, large subunit
+>DET0111	[Ni/Fe] hydrogenase, group 1, small subunit
+>DET0112	[Ni/Fe] hydrogenase, iron-sulfur cluster-binding subunit
+>DET0113	hypothetical protein
+>DET0114	ABC transporter, substrate-binding protein
+>DET0115	ABC transporter, permease
+>DET0117	transcriptional regulator
+>DET0118	DJ-1 family protein
+>DET0119	pyruvate carboxylase subunit B
+>DET0120	pyruvate carboxylase subunit A
+>DET0121	hypothetical protein
+>DET0122	hypothetical protein
+>DET0123	pyridine nucleotide-disulphide oxidoreductase
+>DET0124	hypothetical protein
+>DET0125	alcohol dehydrogenase, zinc-containing
+>DET0126	anthranilate phosphoribosyltransferase
+>DET0127	sensory box sensor histidine kinase
+>DET0128	cobyrinic acid a,c-diamide synthase
+>DET0129	hypothetical protein
+>DET0130	response regulator
+>DET0131	response regulator
+>DET0132	rhomboid family protein
+>DET0133	hypothetical protein
+>DET0134	hypothetical protein
+>DET0135	DNA-binding response regulator
+>DET0136	sensory box sensor histidine kinase
+>DET0137	methylglyoxal synthase
+>DET0138	phosphate ABC transporter, phosphate-binding protein
+>DET0139	phosphate ABC transporter permease
+>DET0140	phosphate ABC transporter permease
+>DET0141	phosphate ABC transporter ATP-binding protein
+>DET0142	phosphate transport system regulatory protein PhoU
+>DET0143	arsenate reductase
+>DET0144	acetyltransferase
+>DET0145	[Fe] hydrogenase, HymA subunit
+>DET0146	[Fe] hydrogenase, HymB subunit
+>DET0147	[Fe] hydrogenase, large subunit HymC
+>DET0148	[Fe] hydrogenase, HymD subunit
+>DET0149	alpha/beta fold family hydrolase
+>DET0150	hypothetical protein
+>DET0151	hypothetical protein
+>DET0152	hypothetical protein
+>DET0153	hypothetical protein
+>DET0155	resolvase domain-containing protein
+>DET0156	hypothetical protein
+>DET0157	phage integrase site specific recombinase
+>DET0158	hypothetical protein
+>DET0159	hypothetical protein
+>DET0160	DNA polymerase domain-containing protein
+>DET0161	hypothetical protein
+>DET0163	reductive dehalogenase anchoring protein
+>DET0164	hypothetical protein
+>DET0165	ISDet2, transposase orfA
+>DET0166	ISDet2, transposase orfB
+>DET0167	hypothetical protein
+>DET0168	hypothetical protein
+>DET0169	RNA polymerase sigma factor SigW
+>DET0170	DNA-binding response regulator
+>DET0171	sensory box sensor histidine kinase
+>DET0172	hypothetical protein
+>DET0173	reductive dehalogenase
+>DET0174	lipoprotein
+>DET0175	reductive dehalogenase anchoring protein
+>DET0176	hypothetical protein
+>DET0177	DNA-binding response regulator
+>DET0178	sensor histidine kinase
+>DET0179	hypothetical protein
+>DET0180	reductive dehalogenase
+>DET0181	reductive dehalogenase anchoring protein
+>DET0182	hypothetical protein
+>DET0183	DEAD/DEAH box helicase
+>DET0184	TerC family membrane protein
+>DET0185	formate dehydrogenase accessory protein FdhE
+>DET0186	formate dehydrogenase, membrane subunit
+>DET0187	formate dehydrogenase, alpha subunit
+>DET0188	hypothetical protein
+>DET0189	methyltransferase
+>DET0190	phosphopantetheine adenylyltransferase
+>DET0191	iron-sulfur cluster-binding protein
+>DET0192	cvpA family protein
+>DET0193	pyrroline-5-carboxylate reductase
+>DET0194	leucyl-tRNA synthetase
+>DET0195	hypothetical protein
+>DET0196	hypothetical protein
+>DET0197	hypothetical protein
+>DET0198	glutaredoxin family protein
+>DET0199	ferredoxin-thioredoxin reductase, catalytic subunit, /rubredoxin
+>DET0200	hypothetical protein
+>DET0201	glycosyl hydrolase domain-containing protein
+>DET0202	histidinol-phosphate phosphatase/glycosyl transferase, group 2 family protein
+>DET0203	glycosyl transferase, group 2 family protein
+>DET0204	NAD-dependent epimerase/dehydratase
+>DET0205	D-glycero-D-manno-heptose 1-phosphate guanosyltransferase
+>DET0206	D-glycero-D-manno-heptose 7-phosphate kinase
+>DET0207	phosphoheptose isomerase
+>DET0208	glycosyl transferase, group 2 family protein
+>DET0209	hypothetical protein
+>DET0210	hypothetical protein
+>DET0211	glycosyl transferase, group 1 family protein
+>DET0212	hypothetical protein
+>DET0213	hypothetical protein
+>DET0214	iron-sulfur cluster-binding protein/coenzyme F420-reducing hydrogenase, beta subunit
+>DET0215	polysaccharide biosynthesis protein
+>DET0216	hypothetical protein
+>DET0217	aldo/keto reductase oxidoreductase
+>DET0218	DNA-binding protein
+>DET0219	HEAT repeat-containing PBS lyase
+>DET0220	hypothetical protein
+>DET0221	GNAT family acetyltransferase
+>DET0222	serine protease inhibitor family protein
+>DET0223	hemolysin
+>DET0224	ABC transporter ATP-binding protein
+>DET0225	lipoprotein
+>DET0226	hypothetical protein
+>DET0227	hypothetical protein
+>DET0228	hypothetical protein
+>DET0229	hypothetical protein
+>DET0230	TM2 domain-containing protein
+>DET0231	hypothetical protein
+>DET0232	DNA-binding response regulator
+>DET0233	sensory box sensor histidine kinase
+>DET0234	hypothetical protein
+>DET0235	reductive dehalogenase
+>DET0236	reductive dehalogenase anchoring protein
+>DET0237	transcriptional regulator
+>DET0238	hypothetical protein
+>DET0239	radical SAM domain-containing protein
+>DET0240	tetrapyrrole methylase
+>DET0241	radical SAM domain-containing protein
+>DET0242	hypothetical protein
+>DET0243	radical SAM domain-containing protein
+>DET0244	ribonucleotide reductase
+>DET0245	cob(I)alamin adenosyltransferase
+>DET0246	cobalamin biosynthesis protein CobD
+>DET0247	hypothetical protein
+>DET0248	cysteine desulfurase
+>DET0249	hypothetical protein
+>DET0250	iron ABC transporter, periplasmic iron-binding protein
+>DET0251	transcriptional repressor LexA
+>DET0252	hypothetical protein
+>DET0253	DNA primase domain-containing protein
+>DET0254	resolvase domain-containing protein
+>DET0255	hypothetical protein
+>DET0256	hypothetical protein
+>DET0257	hypothetical protein
+>DET0258	hypothetical protein
+>DET0259	hypothetical protein
+>DET0260	hypothetical protein
+>DET0261	hypothetical protein
+>DET0262	hypothetical protein
+>DET0263	hypothetical protein
+>DET0264	hypothetical protein
+>DET0265	hypothetical protein
+>DET0266	hypothetical protein
+>DET0267	hypothetical protein
+>DET0268	hypothetical protein
+>DET0269	hypothetical protein
+>DET0270	Ser/Thr protein phosphatase
+>DET0271	hypothetical protein
+>DET0272	phage integrase site specific recombinase
+>DET0273	hypothetical protein
+>DET0274	transcriptional repressor LexA
+>DET0275	hypothetical protein
+>DET0276	DNA primase domain-containing protein
+>DET0277	resolvase domain-containing protein
+>DET0278	hypothetical protein
+>DET0279	hypothetical protein
+>DET0280	hypothetical protein
+>DET0281	hypothetical protein
+>DET0282	hypothetical protein
+>DET0283	hypothetical protein
+>DET0284	hypothetical protein
+>DET0285	hypothetical protein
+>DET0286	hypothetical protein
+>DET0287	hypothetical protein
+>DET0288	hypothetical protein
+>DET0289	hypothetical protein
+>DET0290	hypothetical protein
+>DET0291	hypothetical protein
+>DET0292	hypothetical protein
+>DET0293	Ser/Thr protein phosphatase
+>DET0294	hypothetical protein
+>DET0295	phage integrase site specific recombinase
+>DET0296	precorrin-6Y C5,15-methyltransferase
+>DET0297	hypothetical protein
+>DET0298	hypothetical protein
+>DET0299	Crp/FNR family transcriptional regulator
+>DET0300	DNA-binding response regulator
+>DET0301	sensory box sensor histidine kinase
+>DET0302	reductive dehalogenase
+>DET0303	reductive dehalogenase anchoring protein
+>DET0304	response regulator
+>DET0305	sensory box sensor histidine kinase
+>DET0306	reductive dehalogenase
+>DET0307	reductive dehalogenase anchoring protein
+>DET0308	hypothetical protein
+>DET0309	hypothetical protein
+>DET0310	transcriptional regulator
+>DET0311	reductive dehalogenase
+>DET0312	reductive dehalogenase anchoring protein
+>DET0313	hypothetical protein
+>DET0314	hypothetical protein
+>DET0315	sensory box sensor histidine kinase
+>DET0316	DNA-binding response regulator
+>DET0317	hypothetical protein
+>DET0318	reductive dehalogenase
+>DET0319	reductive dehalogenase anchoring protein
+>DET0320	hypothetical protein
+>DET0321	lipoprotein
+>DET0322	hypothetical protein
+>DET0323	phage integrase site specific recombinase
+>DET0325	patatin-like phospholipase
+>DET0326	hypothetical protein
+>DET0327	hypothetical protein
+>DET0328	hypothetical protein
+>DET0329	amino acid transporter LysE
+>DET0330	histone deacetylase
+>DET0331	cation efflux family protein
+>DET0332	preprotein translocase subunit SecF
+>DET0333	preprotein translocase subunit SecD
+>DET0334	polyA polymerase
+>DET0335	hypothetical protein
+>DET0336	DNA-binding protein
+>DET0337	primosomal protein N'
+>DET0338	50S ribosomal protein L19
+>DET0339	tRNA (guanine-N(1)-)-methyltransferase
+>DET0340	MraZ
+>DET0341	S-adenosyl-methyltransferase MraW
+>DET0342	cell division protein FtsA
+>DET0343	cell division protein FtsZ
+>DET0344	transcriptional regulator NrdR
+>DET0345	ribonucleotide-diphosphate reductase subunit alpha
+>DET0346	hypothetical protein
+>DET0347	hypothetical protein
+>DET0348	radical SAM domain-containing protein
+>DET0349	GatB/YqeY domain-containing protein
+>DET0350	30S ribosomal protein S21
+>DET0351	hypothetical protein
+>DET0352	hypothetical protein
+>DET0353	hypothetical protein
+>DET0354	phage domain-containing protein
+>DET0355	hypothetical protein
+>DET0356	hypothetical protein
+>DET0357	hypothetical protein
+>DET0358	hypothetical protein
+>DET0359	hypothetical protein
+>DET0361	hypothetical protein
+>DET0362	hypothetical protein
+>DET0363	hypothetical protein
+>DET0364	carboxyl-terminal protease
+>DET0365	phenylalanyl-tRNA synthetase subunit alpha
+>DET0366	phenylalanyl-tRNA synthetase subunit beta
+>DET0367	inorganic pyrophosphatase
+>DET0368	prolyl-tRNA synthetase
+>DET0369	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+>DET0370	membrane-associated zinc metalloprotease
+>DET0371	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+>DET0372	phosphatidate cytidylyltransferase
+>DET0373	UDP diphosphate synthase
+>DET0374	ribosome recycling factor
+>DET0375	uridylate kinase
+>DET0376	elongation factor Ts
+>DET0377	30S ribosomal protein S2
+>DET0378	phosphoribosylformylglycinamidine synthase I
+>DET0379	phosphoribosylformylglycinamidine synthase II
+>DET0380	pyridoxal biosynthesis lyase PdxS
+>DET0381	Rieske family iron-sulfur cluster-binding protein
+>DET0383	hypothetical protein
+>DET0384	inosine 5-monophosphate dehydrogenase
+>DET0385	hypothetical protein
+>DET0386	tetrapyrrole methylase
+>DET0387	hypothetical protein
+>DET0388	methionyl-tRNA synthetase
+>DET0389	heptaprenyl diphosphate synthase component II
+>DET0390	hypothetical protein
+>DET0391	ATP-dependent metalloprotease FtsH
+>DET0392	AP endonuclease
+>DET0393	iojap-like protein
+>DET0394	nucleoside diphosphate kinase
+>DET0395	glycoprotease/hydrolase, beta-phosphoglucomutase
+>DET0396	hypothetical protein
+>DET0397	thiamine-monophosphate kinase
+>DET0398	ubiquinone/menaquinone biosynthesis methlytransferase UbiE
+>DET0399	ubiquinone/menaquinone biosynthesis methlytransferase UbiE
+>DET0400	3-dehydroquinate synthase
+>DET0401	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+>DET0402	UbiE/COQ5 family methlytransferase
+>DET0403	Ser/Thr protein phosphatase
+>DET0404	dimethyladenosine transferase
+>DET0405	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+>DET0406	rubrerythrin/rubredoxin
+>DET0407	hypothetical protein
+>DET0408	cation channel family protein
+>DET0409	polyA polymerase
+>DET0410	nodulation ATP-binding protein I
+>DET0411	NodJ
+>DET0412	hypothetical protein
+>DET0413	cytidine/deoxycytidylate deaminase
+>DET0414	hypothetical protein
+>DET0415	deoxyuridine 5'-triphosphate nucleotidohydrolase
+>DET0416	hypothetical protein
+>DET0417	amino acid ABC transporter, ATP-binding protein
+>DET0418	His/Glu/Gln/Arg/opine ABC transporter permease
+>DET0419	amino acid ABC transporter, periplasmic amino acid-binding protein
+>DET0420	hypothetical protein
+>DET0421	degV family protein
+>DET0423	hypothetical protein
+>DET0424	magnesium and cobalt transport protein
+>DET0425	hypothetical protein
+>DET0426	metallo-beta-lactamase
+>DET0427	carbohydrate kinase
+>DET0428	pantothenate kinase
+>DET0429	phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase
+>DET0430	valyl-tRNA synthetase
+>DET0431	sensory box sensor histidine kinase
+>DET0432	LuxR family DNA-binding response regulator
+>DET0433	hypothetical protein
+>DET0434	preprotein translocase subunit SecA
+>DET0435	ribose-phosphate pyrophosphokinase
+>DET0436	serine hydroxymethyltransferase
+>DET0437	uracil-DNA glycosylase
+>DET0438	metallo-beta-lactamase
+>DET0439	FtsK/SpoIIIE family protein
+>DET0440	hypothetical protein
+>DET0441	excinuclease ABC subunit B
+>DET0442	Holliday junction DNA helicase RuvA
+>DET0443	crossover junction endodeoxyribonuclease RuvC
+>DET0444	hypothetical protein
+>DET0445	holo-ACP synthase
+>DET0446	[Fe] hydrogenase, HymA subunit
+>DET0447	acyl CoA biotin-dependent carboxyltransferase
+>DET0448	3-isopropylmalate dehydratase large subunit
+>DET0449	3-isopropylmalate dehydratase small subunit
+>DET0450	isocitrate dehydrogenase
+>DET0451	malate dehydrogenase
+>DET0452	hypothetical protein
+>DET0453	fumarate hydratase
+>DET0454	fumarate hydratase, beta subunit
+>DET0455	HIT domain-containing protein
+>DET0456	MutT/nudix family protein
+>DET0457	acetyltransferase
+>DET0458	inorganic polyphosphate/ATP-NAD kinase
+>DET0459	hypothetical protein
+>DET0460	prephenate dehydrogenase
+>DET0461	chorismate mutase/prephenate dehydratase
+>DET0462	chorismate synthase
+>DET0463	3-phosphoshikimate 1-carboxyvinyltransferase
+>DET0464	shikimate kinase
+>DET0465	shikimate 5-dehydrogenase
+>DET0466	3-dehydroquinate dehydratase
+>DET0467	3-dehydroquinate synthase
+>DET0468	3-deoxy-7-phosphoheptulonate synthase
+>DET0469	hypothetical protein
+>DET0470	30S ribosomal protein S12
+>DET0471	30S ribosomal protein S7
+>DET0472	elongation factor G
+>DET0473	30S ribosomal protein S10
+>DET0474	50S ribosomal protein L3
+>DET0475	50S ribosomal protein L4
+>DET0476	50S ribosomal protein L23
+>DET0477	50S ribosomal protein L2
+>DET0478	30S ribosomal protein S19
+>DET0479	50S ribosomal protein L22
+>DET0480	30S ribosomal protein S3
+>DET0481	50S ribosomal protein L16
+>DET0482	50S ribosomal protein L29
+>DET0483	30S ribosomal protein S17
+>DET0484	50S ribosomal protein L14
+>DET0485	50S ribosomal protein L24
+>DET0486	50S ribosomal protein L5
+>DET0487	30S ribosomal protein S14
+>DET0488	30S ribosomal protein S8
+>DET0489	50S ribosomal protein L6
+>DET0490	50S ribosomal protein L18
+>DET0491	30S ribosomal protein S5
+>DET0492	50S ribosomal protein L30
+>DET0493	50S ribosomal protein L15
+>DET0494	preprotein translocase subunit SecY
+>DET0495	adenylate kinase
+>DET0496	methionine aminopeptidase, type I
+>DET0497	translation initiation factor IF-1
+>DET0498	50S ribosomal protein L36
+>DET0499	30S ribosomal protein S13
+>DET0500	30S ribosomal protein S11
+>DET0501	30S ribosomal protein S4
+>DET0502	DNA-directed RNA polymerase subunit alpha
+>DET0503	50S ribosomal protein L17
+>DET0504	tRNA pseudouridine synthase A
+>DET0505	50S ribosomal protein L13
+>DET0506	30S ribosomal protein S9
+>DET0507	hypothetical protein
+>DET0508	hypothetical protein
+>DET0509	bifunctional phosphoglucose/phosphomannose isomerase
+>DET0510	phosphoglucomutase/phosphomannomutase
+>DET0511	hypothetical protein
+>DET0512	S-adenosylmethionine synthetase
+>DET0513	S-adenosyl-L-homocysteine hydrolase
+>DET0514	hypothetical protein
+>DET0515	hypothetical protein
+>DET0516	hypothetical protein
+>DET0517	methylthioadenosine phosphorylase
+>DET0518	aIF-2BI family translation initiation factor
+>DET0519	ABC transporter, permease
+>DET0520	daunorubicin resistance ABC transporter, ATP-binding protein
+>DET0521	hypothetical protein
+>DET0522	hypothetical protein
+>DET0523	acetyltransferase
+>DET0524	HEAT repeat-containing PBS lyase
+>DET0525	hypothetical protein
+>DET0526	pmbA/tldD family protein
+>DET0527	TldD/PmbA family protein
+>DET0528	phosphoglucomutase/phosphomannomutase
+>DET0529	glucose-1-phosphate thymidylyltransferase
+>DET0530	glucose-1-phosphate thymidylyltransferase
+>DET0531	glucosamine--fructose-6-phosphate aminotransferase
+>DET0532	phosphatidylethanolamine-binding protein
+>DET0533	HAD family hydrolase
+>DET0534	diaminopimelate decarboxylase
+>DET0535	DNA polymerase III, delta prime subunit
+>DET0536	hypothetical protein
+>DET0537	HNH endonuclease domain-containing protein
+>DET0538	ATP-binding protein
+>DET0539	DnaD and phage-associated domain-containing protein
+>DET0540	replicative DNA helicase
+>DET0541	50S ribosomal protein L9
+>DET0542	thioredoxin-disulfide reductase
+>DET0543	glycerol-3-phosphate acyltransferase PlsX
+>DET0544	BadF/BadG/BcrA/BcrD ATPase
+>DET0545	amidohydrolase
+>DET0546	excinuclease ABC, A subunit
+>DET0547	HDIG domain-containing protein
+>DET0548	DNA-binding protein
+>DET0549	exonuclease SbcC
+>DET0550	hypothetical protein
+>DET0551	RNA polymerase sigma factor RpoD
+>DET0552	DNA primase
+>DET0553	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+>DET0554	phosphoenolpyruvate synthase
+>DET0556	hypothetical protein
+>DET0557	hypothetical protein
+>DET0558	ATP synthase F0 subunit A
+>DET0559	ATP synthase F0 subunit C
+>DET0560	ATP synthase F0 subunit B
+>DET0561	F0F1 ATP synthase subunit delta
+>DET0562	F0F1 ATP synthase subunit alpha
+>DET0563	ATP synthase F1 subunit gamma
+>DET0564	F0F1 ATP synthase subunit beta
+>DET0565	F0F1 ATP synthase subunit epsilon
+>DET0566	16S rRNA processing protein RimM
+>DET0567	hypothetical protein
+>DET0568	30S ribosomal protein S16
+>DET0569	endonuclease V
+>DET0570	peptide chain release factor 2, programmed frameshift
+>DET0571	hypothetical protein
+>DET0572	RadC family DNA repair protein
+>DET0573	oligopeptide-binding protein
+>DET0575	hypothetical protein
+>DET0576	aminotransferase, classes I and II
+>DET0577	seryl-tRNA synthetase
+>DET0578	lysyl-tRNA synthetase
+>DET0579	hypothetical protein
+>DET0580	recombination protein RecO
+>DET0581	hypothetical protein
+>DET0582	magnesium and cobalt transport protein CorA
+>DET0583	recombination protein RecR
+>DET0584	hypothetical protein
+>DET0585	DNA polymerase III, gamma and tau subunits
+>DET0586	hypothetical protein
+>DET0587	hypothetical protein
+>DET0588	hypothetical protein
+>DET0589	tubulin/FtsZ family protein
+>DET0590	glyceraldehyde-3-phosphate dehydrogenase, type I
+>DET0591	hypothetical protein
+>DET0592	hypothetical protein
+>DET0593	phosphopyruvate hydratase
+>DET0594	hypothetical protein
+>DET0595	peptidyl-tRNA hydrolase
+>DET0596	DNA ligase, NAD-dependent
+>DET0597	hypothetical protein
+>DET0598	glutamine amidotransferase subunit PdxT
+>DET0599	D-3-phosphoglycerate dehydrogenase
+>DET0600	soluble hydrogenase, tritium exchange subunit
+>DET0601	tyrosyl-tRNA synthetase
+>DET0602	riboflavin biosynthesis protein RibF
+>DET0603	DNA-directed RNA polymerase subunit beta
+>DET0604	DNA-directed RNA polymerase, beta' subunit
+>DET0605	hypothetical protein
+>DET0606	Holliday junction DNA helicase RuvB
+>DET0607	hypothetical protein
+>DET0608	ribosomal-protein-alanine acetyltransferase
+>DET0609	hypothetical protein
+>DET0610	hypothetical protein
+>DET0611	hypothetical protein
+>DET0612	ELP3 family histone acetyltransferase
+>DET0613	hypothetical protein
+>DET0614	hydrogenase, group 3, VhuG subunit
+>DET0615	hydrogenase, group 3, VhuA subunit
+>DET0616	hydrogenase maturation protease
+>DET0617	hypothetical protein
+>DET0618	thiol-disulfide oxidoreductase
+>DET0619	cytochrome c-type biogenesis protein CcdA
+>DET0620	hypothetical protein
+>DET0621	hypothetical protein
+>DET0622	radical SAM domain-containing protein
+>DET0623	ribonucleotide reductase
+>DET0624	response regulator
+>DET0625	sensory box sensor histidine kinase
+>DET0626	hypothetical protein
+>DET0627	hypothetical protein
+>DET0628	radical SAM domain-containing protein
+>DET0629	D-alanine--D-alanine ligase
+>DET0630	FUR family transcriptional regulator
+>DET0631	cation ABC transporter, periplasmc-binding protein
+>DET0632	cation ABC transporter, ATP-binding protein
+>DET0633	cation ABC transporter, permease
+>DET0634	hypothetical protein
+>DET0635	hypothetical protein
+>DET0636	cell division protein FtsZ
+>DET0637	cell division protein FtsA
+>DET0638	hypothetical protein
+>DET0639	hypothetical protein
+>DET0640	universal stress protein
+>DET0641	cyclase
+>DET0642	ribulose-phosphate 3-epimerase
+>DET0643	ribose-5-phosphate isomerase B
+>DET0644	transketolase
+>DET0645	nitroreductase
+>DET0646	hypothetical protein
+>DET0647	hypothetical protein
+>DET0648	hypothetical protein
+>DET0649	hypothetical protein
+>DET0650	ABC-type cobalamin/Fe3+-siderophores transport systems, periplasmic binding protein
+>DET0651	ABC-type cobalamin/Fe3+-siderophores transport systems, permease component
+>DET0652	ABC-type cobalamin/Fe3+-siderophores transport system, ATP-binding protein
+>DET0653	hypothetical protein
+>DET0654	cobalamin biosynthesis protein CobD
+>DET0655	histidinol-phosphate aminotransferase
+>DET0656	hypothetical protein
+>DET0657	nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase
+>DET0658	cobalamin 5'-phosphate synthase
+>DET0659	alpha-ribazole-5'-phosphate phosphatase
+>DET0660	cobinamide kinase/cobinamide phosphate guanylyltransferase
+>DET0661	thioredoxin
+>DET0662	sensor histidine kinase
+>DET0663	LuxR family DNA-binding response regulator
+>DET0664	hypothetical protein
+>DET0665	acetyl-CoA decarbonylase/synthase complex subunit gamma
+>DET0666	bifunctional acetyl-CoA decarbonylase/synthase complex subunit alpha/beta
+>DET0667	acetyl-CoA decarbonylase/synthase complex subunit delta
+>DET0668	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+>DET0669	carbon monoxide dehydrogenase nickel-insertion accessory protein
+>DET0670	iron-sulfur cluster binding protein
+>DET0671	formate--tetrahydrofolate ligase
+>DET0672	hypothetical protein
+>DET0673	hypothetical protein
+>DET0674	universal stress protein
+>DET0675	cyclase
+>DET0676	ribulose-phosphate 3-epimerase
+>DET0677	ribose-5-phosphate isomerase B
+>DET0678	transketolase
+>DET0679	nitroreductase
+>DET0680	hypothetical protein
+>DET0681	hypothetical protein
+>DET0682	hypothetical protein
+>DET0683	hypothetical protein
+>DET0684	ABC-type cobalamin/Fe3+-siderophores transport system, periplasmic binding protein
+>DET0685	ABC-type cobalamin/Fe3+-siderophores transport systems, permease component
+>DET0686	ABC-type cobalamin/Fe3+-siderophores transport system, ATP-binding protein
+>DET0687	hypothetical protein
+>DET0688	cobalamin biosynthesis protein CobD
+>DET0689	histidinol-phosphate aminotransferase
+>DET0690	hypothetical protein
+>DET0691	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+>DET0692	cobalamin 5'-phosphate synthase
+>DET0693	alpha-ribazole-5'-phosphate phosphatase
+>DET0694	cobinamide kinase/cobinamide phosphate guanylyltransferase
+>DET0695	thioredoxin
+>DET0697	LuxR family DNA-binding response regulator
+>DET0698	hypothetical protein
+>DET0699	acetyl-CoA decarbonylase/synthase complex subunit gamma
+>DET0700	bifunctional acetyl-CoA decarbonylase/synthase complex subunit alpha/beta
+>DET0701	acetyl-CoA decarbonylase/synthase complex subunit delta
+>DET0702	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+>DET0703	carbon monoxide dehydrogenase nickel-insertion accessory protein
+>DET0704	iron-sulfur cluster binding protein
+>DET0705	formate--tetrahydrofolate ligase
+>DET0706	hypothetical protein
+>DET0707	hypothetical protein
+>DET0708	aspartyl-tRNA synthetase
+>DET0709	trigger factor
+>DET0710	ATP-dependent Clp protease proteolytic subunit
+>DET0711	carbohydrate kinase
+>DET0712	phosphoribosylglycinamide transformylase
+>DET0713	phosphotransferase domain-containing protein
+>DET0714	translation elongation factor P
+>DET0715	M24 family metallopeptidase
+>DET0716	tyrosine recombinase XerC
+>DET0717	DNA topoisomerase I
+>DET0718	DNA processing protein DprA
+>DET0721	hypothetical protein
+>DET0722	sodium/hydrogen exchanger family protein
+>DET0724	pyruvic-ferredoxin oxidoreductase, gamma subunit
+>DET0725	pyruvic-ferredoxin oxidoreductase, delta subunit
+>DET0726	pyruvic-ferredoxin oxidoreductase, alpha subunit
+>DET0727	pyruvic-ferredoxin oxidoreductase, beta subunit
+>DET0728	[Fe] hydrogenase, HymA subunit
+>DET0729	[Fe] hydrogenase, HymB subunit
+>DET0730	[Fe] hydrogenase, HymC subunit
+>DET0732	mercuric reductase
+>DET0734	hypothetical protein
+>DET0736	short chain dehydrogenase/reductase oxidoreductase
+>DET0737	GTP-binding protein
+>DET0738	hypothetical protein
+>DET0739	LL-diaminopimelate aminotransferase
+>DET0740	diaminopimelate epimerase
+>DET0741	tRNA delta(2)-isopentenylpyrophosphate transferase
+>DET0742	triosephosphate isomerase
+>DET0743	cofactor-independent phosphoglycerate mutase
+>DET0744	phosphoglycerate kinase
+>DET0745	1-deoxy-D-xylulose-5-phosphate synthase
+>DET0746	hypothetical protein
+>DET0748	hypothetical protein
+>DET0749	hypoxanthine phosphoribosyltransferase
+>DET0750	50S ribosomal protein L20
+>DET0751	50S ribosomal protein L35
+>DET0752	translation initiation factor IF-3
+>DET0753	threonyl-tRNA synthetase
+>DET0754	hypothetical protein
+>DET0755	hypothetical protein
+>DET0757	hypothetical protein
+>DET0758	hypothetical protein
+>DET0759	2,3-diketo-5-methylthio-1-phosphopentane phosphatase
+>DET0760	peptide deformylase
+>DET0762	hypothetical protein
+>DET0763	hypothetical protein
+>DET0764	hypothetical protein
+>DET0765	hypothetical protein
+>DET0766	membrane-bound proton-translocating pyrophosphatase
+>DET0767	ATPase, C subunit family protein
+>DET0768	hypothetical protein
+>DET0769	protease
+>DET0770	transcription elongation factor GreA
+>DET0771	hypothetical protein
+>DET0772	hypothetical protein
+>DET0773	CAAX amino terminal protease
+>DET0774	M50 family metallopeptidase
+>DET0775	thiamine biosynthesis protein ThiC
+>DET0776	16S rRNA methyltransferase GidB
+>DET0777	R3H domain-containing protein
+>DET0778	thymidylate kinase
+>DET0779	tRNA-specific 2-thiouridylase MnmA
+>DET0780	ribonuclease HII
+>DET0781	hypothetical protein
+>DET0782	thiamine-phosphate pyrophosphorylase
+>DET0783	haloacid dehalogenase superfamily protein
+>DET0784	membrane-bound proton-translocating pyrophosphatase
+>DET0785	metallo-beta-lactamase
+>DET0786	hypothetical protein
+>DET0787	glycyl-tRNA synthetase
+>DET0788	nuclease SbcCD, D subunit
+>DET0789	RsuA family pseudouridine synthase
+>DET0790	phosphoribosyl transferase domain-containing protein
+>DET0791	adenine deaminase
+>DET0792	hypoxanthine phosphoribosyltransferase
+>DET0793	hypothetical protein
+>DET0794	ABC transporter ATP-binding protein
+>DET0795	ABC transporter permease
+>DET0796	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+>DET0797	stationary phase survival protein SurE
+>DET0798	hypothetical protein
+>DET0799	hypothetical protein
+>DET0800	hypothetical protein
+>DET0801	pyrroline-5-carboxylate reductase
+>DET0802	aspartate alpha-decarboxylase
+>DET0803	3-methyl-2-oxobutanoate hydroxymethyltransferase
+>DET0804	pantoate--beta-alanine ligase
+>DET0805	major facilitator family transporter
+>DET0806	hypothetical protein
+>DET0811	phytoene dehydrogenase
+>DET0812	PAP2 family protein
+>DET0813	ABC transporter ATP-binding protein
+>DET0814	ABC transporter permease
+>DET0815	FeS assembly ATPase SufC
+>DET0816	sufB/SufD domain-containing protein
+>DET0817	ABC transporter ATP-binding protein
+>DET0819	thymidylate synthase
+>DET0820	hypothetical protein
+>DET0821	hypothetical protein
+>DET0822	hypothetical protein
+>DET0823	hypothetical protein
+>DET0824	nitroreductase
+>DET0825	alpha-isopropylmalate/homocitrate synthase transferase
+>DET0826	3-isopropylmalate dehydrogenase
+>DET0827	3-isopropylmalate dehydratase small subunit
+>DET0828	3-isopropylmalate dehydratase large subunit
+>DET0829	MgtC/SapB family membrane protein
+>DET0830	2-isopropylmalate synthase
+>DET0831	ketol-acid reductoisomerase
+>DET0832	acetolactate synthase 3 regulatory subunit
+>DET0833	acetolactate synthase large subunit
+>DET0834	dihydroxy-acid dehydratase
+>DET0835	Sua5/YciO/YrdC/YwlC family protein
+>DET0836	GMP synthase
+>DET0837	hypothetical protein
+>DET0838	phosphoribosylamine--glycine ligase
+>DET0839	phosphoribosylaminoimidazole carboxylase, catalytic subunit
+>DET0840	adenylosuccinate lyase
+>DET0841	phosphoribosylaminoimidazole-succinocarboxamide synthase
+>DET0842	imidazoleglycerol-phosphate dehydratase
+>DET0843	histidinol-phosphate aminotransferase
+>DET0844	histidinol dehydrogenase
+>DET0845	ATP phosphoribosyltransferase, putaitve
+>DET0846	histidyl-tRNA synthetase
+>DET0847	hypothetical protein
+>DET0848	SPFH domain-containing protein/band 7 family protein
+>DET0849	biotin--acetyl-CoA-carboxylase ligase
+>DET0850	hypothetical protein
+>DET0851	sodium extrusion protein NatA
+>DET0852	sodium extrusion protein NatB
+>DET0854	hypothetical protein
+>DET0855	hypothetical protein
+>DET0856	ABC transporter, permease
+>DET0857	ABC transporter ATP-binding protein
+>DET0858	oxygen-independent coproporphyrinogen III oxidase
+>DET0859	GTP-binding protein LepA
+>DET0860	hydrogenase, EchA subunit
+>DET0861	hydrogenase, EchB subunit
+>DET0862	hydrogenase, group 4, EchC subunit
+>DET0863	hydrogenase subunit HymA
+>DET0864	hydrogenase subunit HymB
+>DET0865	hydrogenase subunit HymC
+>DET0866	hydrogenase subunit
+>DET0867	hydrogenase, group 4, EchE subunit
+>DET0868	hydrogenase, EchF subunit
+>DET0869	lysyl-tRNA synthetase-related protein
+>DET0870	translation elongation factor P
+>DET0871	MarR family transcriptional regulator
+>DET0872	MmpL family membrane protein
+>DET0873	DNA-binding protein
+>DET0874	hypothetical protein
+>DET0875	reductive dehalogenase anchoring protein
+>DET0876	reductive dehalogenase
+>DET0877	hypothetical protein
+>DET0878	hypothetical protein
+>DET0879	HNH endonuclease
+>DET0880	LuxR family transcriptional regulator
+>DET0881	hypothetical protein
+>DET0882	excisionase DNA-binding protein
+>DET0883	phage integrase site specific recombinase
+>DET0884	transcriptional repressor LexA
+>DET0885	hypothetical protein
+>DET0886	DNA primase domain-containing protein
+>DET0887	resolvase domain-containing protein
+>DET0888	hypothetical protein
+>DET0889	hypothetical protein
+>DET0890	hypothetical protein
+>DET0891	hypothetical protein
+>DET0892	hypothetical protein
+>DET0893	hypothetical protein
+>DET0894	hypothetical protein
+>DET0895	hypothetical protein
+>DET0896	hypothetical protein
+>DET0897	hypothetical protein
+>DET0898	hypothetical protein
+>DET0899	hypothetical protein
+>DET0900	hypothetical protein
+>DET0901	hypothetical protein
+>DET0902	hypothetical protein
+>DET0903	Ser/Thr protein phosphatase
+>DET0904	hypothetical protein
+>DET0905	phage integrase site specific recombinase
+>DET0907	hypothetical protein
+>DET0908	arsenical pump membrane protein
+>DET0909	hypothetical protein
+>DET0910	hypothetical protein
+>DET0911	aminopeptidase
+>DET0912	hypothetical protein
+>DET0913	hypothetical protein
+>DET0914	hypothetical protein
+>DET0915	hypothetical protein
+>DET0916	hypothetical protein
+>DET0917	hypothetical protein
+>DET0918	hypothetical protein
+>DET0919	hypothetical protein
+>DET0920	iron-sulfur cluster-binding protein
+>DET0921	hypothetical protein
+>DET0922	twitching mobility protein
+>DET0923	proton-translocating NADH-quinone oxidoreductase, A subunit
+>DET0924	proton-translocating NADH-quinone oxidoreductase, B subunit
+>DET0925	proton-translocating NADH-quinone oxidoreductase, C subunit
+>DET0926	proton-translocating NADH-quinone oxidoreductase, D subunit
+>DET0927	proton-translocating NADH-quinone oxidoreductase, H subunit
+>DET0928	proton-translocating NADH-quinone oxidoreductase, I subunit
+>DET0929	proton-translocating NADH-quinone oxidoreductase, J subunit
+>DET0930	proton-translocating NADH-quinone oxidoreductase, K subunit
+>DET0931	proton-translocating NADH-quinone oxidoreductase, L subunit
+>DET0932	proton-translocating NADH-quinone oxidoreductase, M subunit
+>DET0933	proton-translocating NADH-quinone oxidoreductase, N subunit
+>DET0934	TatD family hydrolase
+>DET0935	endonuclease III
+>DET0936	cobyric acid synthase CobQ
+>DET0937	thioesterase
+>DET0938	high-affinity branched-chain amino acid ABC transporter, ATP-binding protein
+>DET0939	hypothetical protein
+>DET0940	AMP-binding enzyme
+>DET0941	high-affinity branched chain amino acid ABC transporter, ATP-binding protein
+>DET0942	lipoprotein
+>DET0943	lipoprotein
+>DET0944	high-affinity branched-chain amino acid ABC transporter, permease
+>DET0945	high-affinity branched-chain amino acid ABC transporter, permease
+>DET0946	AMP-binding protein
+>DET0947	indolepyruvate ferredoxin oxidoreductase, alpha subunit
+>DET0948	indolepyruvate oxidoreductase subunit beta
+>DET0949	hypothetical protein
+>DET0950	hypothetical protein
+>DET0951	NifU domain-containing protein
+>DET0952	hypothetical protein
+>DET0953	copper-translocating P-type ATPase
+>DET0954	Hsp20/alpha crystallin family protein
+>DET0955	bacterioferritin domain-containing protein
+>DET0956	superoxide dismutase
+>DET0959	Smr domain-containing protein
+>DET0960	imidazoleglycerol phosphate synthase, cyclase subunit
+>DET0961	hypothetical protein
+>DET0962	MiaB family tRNA modification protein
+>DET0963	3-oxoacyl-ACP synthase
+>DET0964	single-stranded-DNA-specific exonuclease RecJ
+>DET0965	membrane protein
+>DET0966	prolipoprotein diacylglyceryl transferase
+>DET0967	DEAD/DEAH box helicase
+>DET0968	hypothetical protein
+>DET0969	30S ribosomal protein S15
+>DET0970	polynucleotide phosphorylase/polyadenylase
+>DET0971	dihydrodipicolinate reductase
+>DET0972	aspartate-semialdehyde dehydrogenase
+>DET0973	dihydrodipicolinate synthase
+>DET0974	puromycin N-acetyltransferase,-like protein
+>DET0975	acetyltransferase
+>DET0976	adenylosuccinate synthetase
+>DET0977	CDP-alcohol phosphatidyltransferase
+>DET0978	glycosyl transferase, group 1 family protein
+>DET0979	myo-inositol-1-phosphate synthase
+>DET0980	hypothetical protein
+>DET0981	tRNA pseudouridine synthase B
+>DET0982	ribosome-binding factor A
+>DET0983	translation initiation factor IF-2
+>DET0984	hypothetical protein
+>DET0985	transcription elongation factor NusA
+>DET0986	Mg chelatase-like protein
+>DET0987	acetyltransferase
+>DET0988	acetyltransferase
+>DET0989	hypothetical protein
+>DET0990	50S ribosomal protein L7/L12
+>DET0991	50S ribosomal protein L10
+>DET0992	50S ribosomal protein L1
+>DET0993	50S ribosomal protein L11
+>DET0994	transcription antitermination protein NusG
+>DET0995	preprotein translocase subunit SecE
+>DET0996	50S ribosomal protein L33
+>DET0997	elongation factor Tu
+>DET1001	hypothetical protein
+>DET1002	glycosyl transferase, group 1 family protein
+>DET1003	hypothetical protein
+>DET1004	hypothetical protein
+>DET1005	ArsR family transcriptional regulator
+>DET1006	permease
+>DET1007	redox-active disulfide protein 2
+>DET1008	hypothetical protein
+>DET1009	iron-sulfur cluster-binding protein
+>DET1010	hypothetical protein
+>DET1011	hypothetical protein
+>DET1012	hypothetical protein
+>DET1013	hypothetical protein
+>DET1014	ACT domain-containing protein
+>DET1015	phenylacetate-CoA ligase
+>DET1016	sensory box sensor histidine kinase/response regulator
+>DET1017	hypothetical protein
+>DET1018	hypothetical protein
+>DET1021	hypothetical protein
+>DET1022	hypothetical protein
+>DET1025	ribonuclease III
+>DET1026	hypothetical protein
+>DET1027	acylphosphatase
+>DET1028	hypothetical protein
+>DET1029	hypothetical protein
+>DET1030	cytosol aminopeptidase
+>DET1031	hypothetical protein
+>DET1032	degV family protein
+>DET1033	long-chain-fatty-acid--CoA ligase
+>DET1034	hypothetical protein
+>DET1035	tryptophan synthase subunit beta
+>DET1036	serine protease
+>DET1037	serine protease
+>DET1038	isoleucyl-tRNA synthetase
+>DET1039	SpoIIIJ-associated protein Jag
+>DET1040	inner membrane protein, 60 kDa
+>DET1041	PQQ repeat-containing protein
+>DET1042	ribonuclease P protein component
+>DET1043	50S ribosomal protein L34
+>DET1044	30S ribosomal protein S18
+>DET1045	single-strand binding protein
+>DET1046	30S ribosomal protein S6
+>DET1048	hypothetical protein
+>DET1049	HD domain-containing protein
+>DET1050	hypothetical protein
+>DET1051	hypothetical protein
+>DET1052	endoribonuclease L-PSP
+>DET1053	hypothetical protein
+>DET1054	tubulin/FtsZ family protein
+>DET1055	DNA repair protein RecN
+>DET1056	hypothetical protein
+>DET1057	hypothetical protein
+>DET1058	DNA-binding response regulator
+>DET1059	sensor histidine kinase
+>DET1060	hypothetical protein
+>DET1061	metallo-beta-lactamase
+>DET1062	hypothetical protein
+>DET1063	LuxR family DNA-binding response regulator
+>DET1064	sensory box sensor histidine kinase
+>DET1065	RNA methyltransferase
+>DET1066	hypothetical protein
+>DET1067	phage integrase site specific recombinase
+>DET1068	phage integrase site specific recombinase
+>DET1069	phage integrase site specific recombinase
+>DET1070	endolysin
+>DET1071	holin
+>DET1072	hypothetical protein
+>DET1073	hypothetical protein
+>DET1074	hypothetical protein
+>DET1075	hypothetical protein
+>DET1076	hypothetical protein
+>DET1077	hypothetical protein
+>DET1078	TP901 family tail tape measure protein
+>DET1079	hypothetical protein
+>DET1080	phi13 family major tail protein
+>DET1081	hypothetical protein
+>DET1082	hypothetical protein
+>DET1083	head-tail adaptor
+>DET1084	DNA packaging protein
+>DET1085	HK97 family major capsid protein
+>DET1086	ATP-dependent Clp protease proteolytic subunit ClpP
+>DET1087	HK97 family portal protein
+>DET1088	terminase, large subunit
+>DET1089	virulence-related protein
+>DET1090	hypothetical protein
+>DET1091	virulence-related protein
+>DET1092	DNA methylase
+>DET1093	hypothetical protein
+>DET1094	HNH endonuclease domain-containing protein
+>DET1095	hypothetical protein
+>DET1096	SNF2 domain-containing protein
+>DET1097	hypothetical protein
+>DET1098	virulence-associated protein E
+>DET1099	hypothetical protein
+>DET1100	family A DNA-dependent DNA polymerase
+>DET1101	hypothetical protein
+>DET1102	hypothetical protein
+>DET1103	hypothetical protein
+>DET1104	hypothetical protein
+>DET1105	hypothetical protein
+>DET1106	hypothetical protein
+>DET1107	hypothetical protein
+>DET1108	hypothetical protein
+>DET1109	helicase/SNF2 domain-containing protein
+>DET1110	hypothetical protein
+>DET1111	ATP-binding protein
+>DET1112	type III restriction-modification system, methylase subunit
+>DET1113	hypothetical protein
+>DET1114	type III restriction-modification system, restriction endonuclease subunit
+>DET1115	type II restriction endonuclease
+>DET1116	sugar fermentation stimulation protein
+>DET1117	hypothetical protein
+>DET1118	acetyltransferase
+>DET1119	hypothetical protein
+>DET1120	septum formation protein MaF
+>DET1121	hypothetical protein
+>DET1122	glutamine-dependent NAD(+) synthetase
+>DET1123	glutamine synthetase, type I
+>DET1124	nitrogen regulatory protein P-II
+>DET1125	ammonium transporter
+>DET1126	transcriptional regulator
+>DET1127	hypothetical protein
+>DET1128	glutamate synthase
+>DET1129	imidazole glycerol phosphate synthase subunit HisF
+>DET1130	glutamine amidotransferase, class II
+>DET1131	pyridine nucleotide-disulfide oxidoreductase
+>DET1132	imidazole glycerol phosphate synthase subunit HisH
+>DET1133	iron-sulfur cluster-binding protein
+>DET1134	hypothetical protein
+>DET1135	cysteine synthase A
+>DET1136	hypothetical protein
+>DET1137	radical SAM domain-containing protein
+>DET1138	cobalamin biosynthesis protein CobD
+>DET1139	cob(I)alamin adenosyltransferase
+>DET1140	carbon-nitrogen hydrolase
+>DET1141	glycosyl transferase/polysaccharide deacetylase
+>DET1142	hypothetical protein
+>DET1143	hypothetical protein
+>DET1144	DNA-binding response regulator
+>DET1146	hypothetical protein
+>DET1147	FUR family transcriptional regulator
+>DET1148	nitrogenase cofactor biosynthesis protein NifB
+>DET1149	acetyltransferase
+>DET1150	ferredoxin, 2Fe-2S
+>DET1151	dinitrogenase iron-molybdenum cofactor NifB/Y/X family protein
+>DET1152	nitrogenase molybdenum-iron protein, beta subunit
+>DET1153	nitrogenase MoFe cofactor biosynthesis protein NifE
+>DET1154	nitrogenase molybdenum-iron protein, beta subunit
+>DET1155	nitrogenase molybdenum-iron protein alpha chain
+>DET1156	nitrogen regulatory protein P-II
+>DET1157	nitrogen regulatory protein P-II
+>DET1158	nitrogenase reductase
+>DET1159	molybdenum ABC transporter, ATP-binding protein
+>DET1160	molybdenum ABC transporter, permease
+>DET1161	molybdenum ABC transporter, periplasmic molybdate-binding protein
+>DET1162	transcriptional regulator
+>DET1163	MarR family transcriptional regulator
+>DET1164	iron-sulfur cluster-binding protein
+>DET1165	hypothetical protein
+>DET1166	hypothetical protein
+>DET1167	hypothetical protein
+>DET1168	hypothetical protein
+>DET1169	hypothetical protein
+>DET1170	reductive dehalogenase anchoring protein
+>DET1171	reductive dehalogenase
+>DET1172	MarR family transcriptional regulator
+>DET1173	fwdE family protein
+>DET1174	iron ABC transporter periplasmic-binding protein
+>DET1175	iron ABC transporter permease
+>DET1176	iron ABC transporter ATP-binding protein
+>DET1177	hypothetical protein
+>DET1178	MarR family transcriptional regulator
+>DET1179	ABC transporter, ATP-binding/permease
+>DET1180	ABC transporter, ATP-binding/permease
+>DET1181	hypothetical protein
+>DET1182	hypothetical protein
+>DET1184	BioY family protein
+>DET1185	hypothetical protein
+>DET1186	hypothetical protein
+>DET1187	6,7-dimethyl-8-ribityllumazine synthase
+>DET1188	3,4-dihydroxy-2-butanone 4-phosphate synthase
+>DET1189	riboflavin synthase subunit alpha
+>DET1190	riboflavin biosynthesis protein RibD
+>DET1191	lipoprotein
+>DET1192	signal peptidase I
+>DET1193	orotate phosphoribosyltransferase
+>DET1194	hypothetical protein
+>DET1195	MutL/HexB family DNA mismatch repair protein
+>DET1196	ATP-dependent DNA helicase PcrA
+>DET1197	hypothetical protein
+>DET1198	bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase
+>DET1199	aspartate carbamoyltransferase catalytic subunit
+>DET1200	dihydroorotase
+>DET1201	carbamoyl phosphate synthase small subunit
+>DET1202	carbamoyl-phosphate synthase large subunit
+>DET1203	dihydroorotate dehydrogenase, electron transfer subunit
+>DET1204	GTP cyclohydrolase I
+>DET1205	threonine synthase
+>DET1206	homoserine dehydrogenase
+>DET1207	protein export protein
+>DET1208	nucleotidyltransferase
+>DET1209	acetyl-CoA synthetase
+>DET1210	peptide chain release factor 1
+>DET1211	HemK family modification methylase
+>DET1212	elongation factor G
+>DET1213	hypothetical protein
+>DET1214	hypothetical protein
+>DET1215	tyrosine recombinase XerD
+>DET1216	excinuclease ABC subunit C
+>DET1217	acetyltransferase
+>DET1218	HAD family hydrolase
+>DET1219	DNA mismatch repair protein MutS
+>DET1220	hypothetical protein
+>DET1221	hypothetical protein
+>DET1222	hypothetical protein
+>DET1223	fumarylacetoacetate hydrolase
+>DET1224	cob(I)alamin adenosyltransferase
+>DET1225	hypothetical protein
+>DET1226	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+>DET1227	DNA polymerase III, beta subunit
+>DET1228	hypothetical protein
+>DET1229	hypothetical protein
+>DET1230	hypothetical protein
+>DET1231	DNA-binding response regulator
+>DET1232	sensor histidine kinase
+>DET1233	DNA-binding response regulator
+>DET1234	hypothetical protein
+>DET1235	hypothetical protein
+>DET1236	hypothetical protein
+>DET1237	formyltetrahydrofolate deformylase
+>DET1238	lipoprotein
+>DET1239	hypothetical protein
+>DET1240	cyclophilin type peptidyl-prolyl cis-trans isomerase
+>DET1241	peptide methionine sulfoxide reductase MsrA
+>DET1243	hypothetical protein
+>DET1244	NADPH-dependent FMN reductase
+>DET1245	TfoX domain-containing protein
+>DET1246	hypothetical protein
+>DET1247	ArsR family transcriptional regulator
+>DET1248	hypothetical protein
+>DET1249	hypothetical protein
+>DET1250	hypothetical protein
+>DET1251	NADPH-dependent FMN reductase
+>DET1252	hypothetical protein
+>DET1253	hypothetical protein
+>DET1254	hypothetical protein
+>DET1255	twitching mobility protein
+>DET1256	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+>DET1257	acetylglutamate kinase
+>DET1258	acetylornithine aminotransferase
+>DET1259	hypothetical protein
+>DET1260	argininosuccinate synthase
+>DET1261	argininosuccinate lyase
+>DET1262	50S ribosomal protein L28
+>DET1263	DAK2 domain-containing protein
+>DET1264	degV family protein
+>DET1265	degV family protein
+>DET1266	degV family protein
+>DET1267	degV family protein
+>DET1268	ATP-dependent DNA helicase RecG
+>DET1269	HNH endonuclease domain-containing protein
+>DET1270	arginyl-tRNA synthetase
+>DET1271	hypothetical protein
+>DET1272	enoyl-ACP reductase
+>DET1273	hypothetical protein
+>DET1274	hypothetical protein
+>DET1275	50S ribosomal protein L32
+>DET1276	malonyl CoA-ACP transacylase
+>DET1277	3-oxoacyl-ACP reductase
+>DET1278	N utilization substance protein B
+>DET1279	acyl carrier protein
+>DET1280	radical SAM protein
+>DET1281	transcription-repair coupling factor
+>DET1282	gamma-glutamyl kinase
+>DET1283	hypothetical protein
+>DET1284	hypothetical protein
+>DET1285	serine protease
+>DET1286	serine protease
+>DET1287	MerR family transcriptional regulator
+>DET1288	gamma-glutamyl phosphate reductase
+>DET1289	ribonuclease PH
+>DET1290	NUDIX domain-containing protein
+>DET1291	competence/damage inducible protein CinA
+>DET1292	hypothetical protein
+>DET1293	sensory box sensor histidine kinase
+>DET1294	DNA-binding response regulator
+>DET1295	hypothetical protein
+>DET1296	hypothetical protein
+>DET1297	hypothetical protein
+>DET1298	GTP-binding protein TypA
+>DET1299	major facilitator family transporter
+>DET1300	universal stress protein
+>DET1301	ISDet4, transposase
+>DET1302	hypothetical protein
+>DET1303	fasciclin domain-containing protein
+>DET1304	hypothetical protein
+>DET1305	hypothetical protein
+>DET1306	hypothetical protein
+>DET1307	hypothetical protein
+>DET1308	alpha/beta fold family hydrolase
+>DET1309	recombination factor protein RarA
+>DET1310	hypothetical protein
+>DET1311	hypothetical protein
+>DET1312	hypothetical protein
+>DET1313	hypothetical protein
+>DET1314	radical SAM domain-containing protein
+>DET1315	hypothetical protein
+>DET1317	hypothetical protein
+>DET1318	nucleotide-binding protein
+>DET1319	hypothetical protein
+>DET1320	hypothetical protein
+>DET1321	acetyltransferase
+>DET1322	hypothetical protein
+>DET1323	dephospho-CoA kinase
+>DET1324	hypothetical protein
+>DET1325	50S ribosomal protein L21
+>DET1326	50S ribosomal protein L27
+>DET1327	50S ribosomal protein L31
+>DET1328	hypothetical protein
+>DET1329	phosphoribosyl-AMP cyclohydrolase
+>DET1330	acetyltransferase
+>DET1331	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+>DET1332	hypothetical protein
+>DET1333	hypothetical protein
+>DET1334	glutamyl-tRNA(Gln) amidotransferase, C subunit
+>DET1335	aspartyl/glutamyl-tRNA amidotransferase subunit A
+>DET1336	hypothetical protein
+>DET1337	hypothetical protein
+>DET1338	DNA-binding protein
+>DET1339	ABC transporter ATP-binding protein
+>DET1340	ABC transporter, permease
+>DET1341	AsnC family transcriptional regulator
+>DET1342	aspartate aminotransferase
+>DET1343	tryptophanyl-tRNA synthetase
+>DET1344	hydroxymethylbutenyl pyrophosphate reductase
+>DET1345	tagatose 1,6-diphosphate aldolase
+>DET1346	carbohydrate kinase
+>DET1347	hypothetical protein
+>DET1348	ECF subfamily RNA polymerase sigma factor
+>DET1349	excisionase DNA-binding protein
+>DET1350	LuxR family DNA-binding response regulator
+>DET1351	type II secretion system protein GspE
+>DET1352	pilin biogenesis protein
+>DET1353	GspI/GspJ family type II secretion system protein
+>DET1354	type II secretion system protein
+>DET1355	hypothetical protein
+>DET1356	hypothetical protein
+>DET1357	hypothetical protein
+>DET1358	type IV pilus assembly family protein
+>DET1359	twitching mobility protein
+>DET1360	general secretion protein
+>DET1361	hypothetical protein
+>DET1362	type IV prepilin leader peptidase
+>DET1363	bifunctional mannosyl-3-phosphoglycerate synthase/mannosyl-3 phosphoglycerate phosphatase
+>DET1364	hypothetical protein
+>DET1365	glutamyl-tRNA synthetase
+>DET1366	hypothetical protein
+>DET1367	hypothetical protein
+>DET1368	radical SAM domain-containing protein
+>DET1369	hypothetical protein
+>DET1370	hypothetical protein
+>DET1371	NADPH-dependent FMN reductase
+>DET1372	dihydroorotate dehydrogenase 1B
+>DET1373	dnaK suppressor protein
+>DET1374	lipoprotein signal peptidase
+>DET1375	ribosomal large subunit pseudouridine synthase D
+>DET1376	hypothetical protein
+>DET1377	hypothetical protein
+>DET1378	hypothetical protein
+>DET1379	auxin-responsive GH3 protein homolog
+>DET1380	hypothetical protein
+>DET1381	diguanylate cyclase
+>DET1382	nicotinate-nucleotide pyrophosphorylase
+>DET1384	preprotein translocase, YajC subunit
+>DET1385	(dimethylallyl)adenosine tRNA methylthiotransferase
+>DET1386	hypothetical protein
+>DET1387	hypothetical protein
+>DET1389	formamidopyrimidine-DNA glycosylase
+>DET1390	PAP2 family protein
+>DET1391	DNA-directed DNA polymerase I
+>DET1392	rhodanese-like domain-containing protein
+>DET1393	hypothetical protein
+>DET1394	ornithine carbamoyltransferase
+>DET1395	GTP-binding protein EngA
+>DET1396	membrane protein
+>DET1397	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+>DET1398	co-chaperone protein DnaJ
+>DET1399	molecular chaperone DnaK
+>DET1400	co-chaperone protein GrpE
+>DET1401	heat-inducible transcription repressor HrcA
+>DET1402	hypothetical protein
+>DET1403	hypothetical protein
+>DET1404	hypothetical protein
+>DET1405	hypothetical protein
+>DET1406	hypothetical protein
+>DET1407	BNR/Asp-box repeat-containing protein
+>DET1409	translaldolase
+>DET1410	CTP synthetase
+>DET1411	DnaJ family protein
+>DET1412	HspR protein
+>DET1413	chaperone ClpB
+>DET1414	hypothetical protein
+>DET1415	amidophosphoribosyltransferase
+>DET1416	phosphoribosylaminoimidazole synthetase
+>DET1417	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+>DET1418	nicotinate phosphoribosyltransferase
+>DET1419	AbrB family transcriptional regulator
+>DET1420	arsenite S-adenosylmethyltransferase
+>DET1421	PP-loop family protein
+>DET1422	phosphoglycerate mutase
+>DET1423	M48 family peptidase
+>DET1424	hypothetical protein
+>DET1425	hypothetical protein
+>DET1426	DNA-binding/iron metalloprotein/AP endonuclease
+>DET1427	chaperonin GroES
+>DET1428	chaperonin GroEL
+>DET1429	M16 family peptidase
+>DET1430	hydrogenase nickel insertion protein HypA
+>DET1431	hydrogenase accessory protein HypB
+>DET1432	[NiFe] hydrogenase maturation protein HypF
+>DET1433	hydrogenase assembly chaperone HypC/HupF
+>DET1434	hydrogenase expression/formation protein HypD
+>DET1435	hydrogenase expression/formation protein HypE
+>DET1436	TetR family transcriptional regulator
+>DET1437	hypothetical protein
+>DET1438	hypothetical protein
+>DET1443	hypothetical protein
+>DET1445	hypothetical protein
+>DET1446	excisionase DNA binding protein
+>DET1447	hypothetical protein
+>DET1448	hypothetical protein
+>DET1449	MarC membrane protein
+>DET1450	hypothetical protein
+>DET1451	hypothetical protein
+>DET1452	hypothetical protein
+>DET1453	hypothetical protein
+>DET1454	50S ribosomal protein L25/general stress protein Ctc
+>DET1455	hypothetical protein
+>DET1456	2'-5' RNA ligase
+>DET1457	hypothetical protein
+>DET1458	comF family protein
+>DET1459	ribosomal subunit interface protein
+>DET1460	methylated-DNA--protein-cysteine methyltransferase
+>DET1461	lipoprotein
+>DET1462	RadC family DNA repair protein
+>DET1463	hypothetical protein
+>DET1464	DNA polymerase III, alpha subunit
+>DET1465	hypothetical protein
+>DET1466	hypothetical protein
+>DET1467	hypothetical protein
+>DET1468	hypothetical protein
+>DET1472	NHL/RHS/YD repeat-containing protein
+>DET1473	hypothetical protein
+>DET1474	phage integrase site specific recombinase
+>DET1475	hypothetical protein
+>DET1476	DNA binding domain-containing protein
+>DET1477	hypothetical protein
+>DET1478	hypothetical protein
+>DET1479	hypothetical protein
+>DET1480	hypothetical protein
+>DET1481	anthranilate synthase component I
+>DET1482	anthranilate synthase component II
+>DET1483	anthranilate phosphoribosyltransferase
+>DET1484	indole-3-glycerol-phosphate synthase
+>DET1485	N-(5'phosphoribosyl)anthranilate isomerase
+>DET1486	3-deoxy-7-phosphoheptulonate synthase
+>DET1487	tryptophan synthase subunit beta
+>DET1488	tryptophan synthase subunit alpha
+>DET1489	thymidylate synthase, flavin-dependent
+>DET1490	peptide ABC transporter, ATP-binding protein
+>DET1491	peptide ABC transporter, ATP-binding protein
+>DET1492	peptide ABC transporter, permease
+>DET1493	peptide ABC transporter, permease
+>DET1494	peptide ABC transporter, periplasmic peptide-binding protein
+>DET1495	hypothetical protein
+>DET1496	hypothetical protein
+>DET1497	hypothetical protein
+>DET1498	camphor resistance protein CrcB
+>DET1499	hypothetical protein
+>DET1500	hypothetical protein
+>DET1501	flavodoxin
+>DET1502	major facilitator family protein
+>DET1503	ferrous iron transport protein B
+>DET1504	ferrous iron transport protein A
+>DET1505	FUR family transcriptional regulator
+>DET1506	SsrA-binding protein
+>DET1508	ISDet3, transposase orfA
+>DET1510	hypothetical protein
+>DET1511	hypothetical protein
+>DET1512	hypothetical protein
+>DET1513	ATPase AAA
+>DET1514	hypothetical protein
+>DET1515	hypothetical protein
+>DET1516	nucleotidyltransferase domain-containing protein
+>DET1517	hypothetical protein
+>DET1518	reductive dehalogenase anchoring protein
+>DET1519	reductive dehalogenase
+>DET1520	MarR family transcriptional regulator
+>DET1521	reductive dehalogenase anchoring protein
+>DET1522	reductive dehalogenase
+>DET1523	response regulator
+>DET1524	DNA binding response regulator
+>DET1525	transcriptional regulator
+>DET1526	lipoprotein
+>DET1527	reductive dehalogenase anchoring protein
+>DET1528	reductive dehalogenase
+>DET1529	sensory box protein
+>DET1530	sensor histidine kinase
+>DET1531	LuxR family DNA-binding response regulator
+>DET1532	dinitrogenase iron-molybdenum cofactor family protein
+>DET1533	hypothetical protein
+>DET1534	reductive dehalogenase anchoring protein
+>DET1535	reductive dehalogenase
+>DET1536	MarR family transcriptional regulator
+>DET1537	reductive dehalogenase anchoring protein
+>DET1538	reductive dehalogenase
+>DET1539	sensory box sensor histidine kinase
+>DET1540	DNA-binding response regulator
+>DET1541	hypothetical protein
+>DET1542	hypothetical protein
+>DET1543	hypothetical protein
+>DET1544	reductive dehalogenase anchoring protein
+>DET1545	reductive dehalogenase
+>DET1546	hypothetical protein
+>DET1547	prephenate dehydratase
+>DET1548	hypothetical protein
+>DET1549	preprotein translocase subunit SecG
+>DET1550	aspartyl/glutamyl-tRNA amidotransferase subunit B
+>DET1552	resolvase domain-containing protein
+>DET1553	hypothetical protein
+>DET1554	hypothetical protein
+>DET1555	DNA-binding protein
+>DET1556	hypothetical protein
+>DET1557	lipoprotein
+>DET1558	reductive dehalogenase anchoring protein
+>DET1559	reductive dehalogenase
+>DET1560	sensory box sensor histidine kinase
+>DET1561	LuxR family DNA-binding response regulator
+>DET1562	hypothetical protein
+>DET1563	hypothetical protein
+>DET1564	hypothetical protein
+>DET1565	iron-sulfur cluster-binding protein
+>DET1566	MerR family transcriptional regulator
+>DET1567	hypothetical protein
+>DET1568	hypothetical protein
+>DET1569	hypothetical protein
+>DET1570	hydrogenase, group 4, HycG subunit
+>DET1571	hydrogenase, group 4, HycE subunit
+>DET1572	hydrogenase membrane subunit
+>DET1573	hydrogenase subunit
+>DET1574	hydrogenase, HycD subunit
+>DET1575	hydrogenase membrane subunit
+>DET1576	methylglyoxal synthase
+>DET1577	hypothetical protein
+>DET1578	hypothetical protein
+>DET1579	mechanosensitive ion channel family protein
+>DET1580	TetR family transcriptional regulator
+>DET1581	anti-oxidant AhpCTSA family protein
+>DET1582	hypothetical protein
+>DET1584	hypothetical protein
+>DET1585	hypothetical protein
+>DET1586	hypothetical protein
+>DET1587	M28 family peptidase
+>DET1588	serine O-acetyltransferase
+>DET1589	divalent cation tolerance protein CutA
+>DET1590	quinolinate synthetase
+>DET1591	UbiE/COQ5 family methlytransferase
+>DET1592	AIR synthase domain-containing protein
+>DET1593	hypothetical protein
+>DET1595	ApbE/NosX family protein
+>DET1596	transcriptional regulator
+>DET1597	hypothetical protein
+>DET1598	transcriptional regulator
+>DET1599	Sec-independent protein translocase TatC
+>DET1600	twin-arginine translocation protein TatB
+>DET1601	twin arginine-targeting protein translocase
+>DET1602	twin arginine-targeting protein translocase
+>DET1603	dihydropteroate synthase
+>DET1604	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+>DET1605	6-pyruvoyl tetrahydrobiopterin synthase
+>DET1606	hypothetical protein
+>DET1607	regulatory protein RecX
+>DET1608	phosphodiesterase
+>DET1609	Ser/Thr protein phosphatase
+>DET1610	phosphotransferase domain-containing protein
+>DET1611	membrane protein
+>DET1612	HhH-GPD family DNA repair protein
+>DET1613	hypothetical protein
+>DET1614	homocitrate synthase
+>DET1615	HIT domain-containing protein
+>DET1616	AbrB family transcriptional regulator
+>DET1617	hypothetical protein
+>DET1618	hypothetical protein
+>DET1619	ABC transporter ATP-binding protein
+>DET1620	hypothetical protein
+>DET1621	hypothetical protein
+>DET1622	hypothetical protein
+>DET1623	desulforedoxin
+>DET1624	hypothetical protein
+>DET1626	N-acetyl-gamma-glutamyl-phosphate reductase
+>DET1627	sodium/hydrogen exchanger family protein
+>DET1628	metallo-beta-lactamase
+>DET1629	radical SAM domain-containing protein
+>DET1630	DNA gyrase, A subunit
+>DET1631	TPR domain-containing protein
+>DET1632	NifU-like protein
+>DET1633	aspartate kinase
+>DET1634	hypothetical protein
+>DET1635	cofactor-independent phosphoglycerate mutase
+>DET1637	mazG family protein
+>DET1638	hypothetical protein
+>DET1639	30S ribosomal protein S20
+>DET1640	LexA repressor
+>DET1641	L-fuculose phosphate aldolase
+>DET1642	methionyl-tRNA formyltransferase
